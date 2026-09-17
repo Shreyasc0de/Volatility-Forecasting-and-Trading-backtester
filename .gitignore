@@ -10,3 +10,8 @@ backend/venv/
 backend/__pycache__/
 backend/data/
 *.pyc
+venv/
+__pycache__/
+*.py[cod]
+data/FIXTURE.csv
+_to_delete/
