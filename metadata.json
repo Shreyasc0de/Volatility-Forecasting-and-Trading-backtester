@@ -1,5 +1,0 @@
-{
-  "name": "Volatility Forecasting & Regime-Aware Trading Backtester",
-  "description": "Quantitative research suite and backtesting engine for volatility forecasting (GARCH, GJR-GARCH, EGARCH, EWMA), Markov regime-switching detection, and dynamic volatility-overlay trading strategies on SPY, AAPL, and BTC-USD.",
-  "requestFramePermissions": []
-}
